@@ -1,0 +1,52 @@
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.x
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.tx
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.allx
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.y
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.ty
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.ally
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.graph
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.test.index
+Processing...
+Done!
+[31mcuda, [0m
+[31m384, [31m0.15, [31m4, [31m0.0001, [0m
+Traceback (most recent call last):
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 555, in <module>
+    dev, test, max_dev, test_at_max_dev = train_pipeline(
+                                          ^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 342, in train_pipeline
+    epoch_loss += train(model, dataset.edge_index, dataset.x, index_batch, y_batch, lf, optmz)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 295, in train
+    out = model(edge_index.to(device), x.to(device))[supervision]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 127, in forward
+    adj, h, idx = self.pools[i](adj, h)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 202, in forward
+    return top_k_graph(scores, g, h, self.k)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 228, in top_k_graph
+    un_g += torch.diag(torch.ones(un_g.shape[0]).to(device))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 1.45 GiB. GPU 0 has a total capacty of 9.50 GiB of which 1.07 GiB is free. Process 2524968 has 8.62 GiB memory in use. Process 2524967 has 8.96 GiB memory in use. Including non-PyTorch memory, this process has 8.42 GiB memory in use. Of the allocated memory 3.91 GiB is allocated by PyTorch, and 3.63 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("en_US.UTF-8").

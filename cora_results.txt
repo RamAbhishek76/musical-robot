@@ -1,0 +1,1821 @@
+[31mcuda, [0m
+[31m64, [31m0.05, [31m2, [31m0.0001, [0m
+[31mFold 1, [0m
+[31mEpoch 1, [0m
+[31mLoss: 1.9413, [0m
+[31mDev Accuracy: [33m16.800%, [0m
+[31mTest Accuracy: 16.400%, Reporting Test Score:[35m16.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 2, [0m
+[31mLoss: 1.9480, [0m
+[31mDev Accuracy: [33m17.200%, [0m
+[31mTest Accuracy: 17.200%, Reporting Test Score:[35m17.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 3, [0m
+[31mLoss: 1.9395, [0m
+[31mDev Accuracy: [33m17.200%, [0m
+[31mTest Accuracy: 17.300%, Reporting Test Score:[35m17.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 4, [0m
+[31mLoss: 1.9397, [0m
+[31mDev Accuracy: [34m17.000%, [0m
+[31mTest Accuracy: 17.600%, Reporting Test Score:[35m17.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 5, [0m
+[31mLoss: 1.9324, [0m
+[31mDev Accuracy: [33m17.600%, [0m
+[31mTest Accuracy: 18.300%, Reporting Test Score:[35m18.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 6, [0m
+[31mLoss: 1.9339, [0m
+[31mDev Accuracy: [33m18.000%, [0m
+[31mTest Accuracy: 18.400%, Reporting Test Score:[35m18.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 7, [0m
+[31mLoss: 1.9183, [0m
+[31mDev Accuracy: [33m18.000%, [0m
+[31mTest Accuracy: 18.600%, Reporting Test Score:[35m18.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 8, [0m
+[31mLoss: 1.9305, [0m
+[31mDev Accuracy: [33m18.000%, [0m
+[31mTest Accuracy: 18.800%, Reporting Test Score:[35m18.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 9, [0m
+[31mLoss: 1.9221, [0m
+[31mDev Accuracy: [33m18.400%, [0m
+[31mTest Accuracy: 19.000%, Reporting Test Score:[35m19.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 10, [0m
+[31mLoss: 1.9101, [0m
+[31mDev Accuracy: [33m18.600%, [0m
+[31mTest Accuracy: 19.300%, Reporting Test Score:[35m19.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 11, [0m
+[31mLoss: 1.9134, [0m
+[31mDev Accuracy: [33m18.800%, [0m
+[31mTest Accuracy: 20.200%, Reporting Test Score:[35m20.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 12, [0m
+[31mLoss: 1.9081, [0m
+[31mDev Accuracy: [33m19.000%, [0m
+[31mTest Accuracy: 20.000%, Reporting Test Score:[35m20.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 13, [0m
+[31mLoss: 1.9067, [0m
+[31mDev Accuracy: [34m18.800%, [0m
+[31mTest Accuracy: 20.200%, Reporting Test Score:[35m20.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 14, [0m
+[31mLoss: 1.8997, [0m
+[31mDev Accuracy: [33m20.200%, [0m
+[31mTest Accuracy: 20.600%, Reporting Test Score:[35m20.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 15, [0m
+[31mLoss: 1.8948, [0m
+[31mDev Accuracy: [34m20.000%, [0m
+[31mTest Accuracy: 20.800%, Reporting Test Score:[35m20.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 16, [0m
+[31mLoss: 1.8959, [0m
+[31mDev Accuracy: [33m20.600%, [0m
+[31mTest Accuracy: 21.500%, Reporting Test Score:[35m21.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 17, [0m
+[31mLoss: 1.8967, [0m
+[31mDev Accuracy: [33m22.400%, [0m
+[31mTest Accuracy: 22.500%, Reporting Test Score:[35m22.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 18, [0m
+[31mLoss: 1.8778, [0m
+[31mDev Accuracy: [33m22.400%, [0m
+[31mTest Accuracy: 23.800%, Reporting Test Score:[35m23.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 19, [0m
+[31mLoss: 1.8778, [0m
+[31mDev Accuracy: [33m24.000%, [0m
+[31mTest Accuracy: 25.300%, Reporting Test Score:[35m25.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 20, [0m
+[31mLoss: 1.8626, [0m
+[31mDev Accuracy: [33m24.400%, [0m
+[31mTest Accuracy: 25.900%, Reporting Test Score:[35m25.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 21, [0m
+[31mLoss: 1.8690, [0m
+[31mDev Accuracy: [33m25.200%, [0m
+[31mTest Accuracy: 26.800%, Reporting Test Score:[35m26.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 22, [0m
+[31mLoss: 1.8687, [0m
+[31mDev Accuracy: [33m25.400%, [0m
+[31mTest Accuracy: 27.700%, Reporting Test Score:[35m27.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 23, [0m
+[31mLoss: 1.8633, [0m
+[31mDev Accuracy: [33m26.600%, [0m
+[31mTest Accuracy: 28.600%, Reporting Test Score:[35m28.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 24, [0m
+[31mLoss: 1.8711, [0m
+[31mDev Accuracy: [33m27.600%, [0m
+[31mTest Accuracy: 29.400%, Reporting Test Score:[35m29.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 25, [0m
+[31mLoss: 1.8548, [0m
+[31mDev Accuracy: [33m28.600%, [0m
+[31mTest Accuracy: 30.900%, Reporting Test Score:[35m30.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 26, [0m
+[31mLoss: 1.8363, [0m
+[31mDev Accuracy: [33m30.800%, [0m
+[31mTest Accuracy: 32.700%, Reporting Test Score:[35m32.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 27, [0m
+[31mLoss: 1.8247, [0m
+[31mDev Accuracy: [33m32.000%, [0m
+[31mTest Accuracy: 33.200%, Reporting Test Score:[35m33.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 28, [0m
+[31mLoss: 1.8299, [0m
+[31mDev Accuracy: [33m33.000%, [0m
+[31mTest Accuracy: 34.000%, Reporting Test Score:[35m34.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 29, [0m
+[31mLoss: 1.8084, [0m
+[31mDev Accuracy: [33m33.200%, [0m
+[31mTest Accuracy: 34.400%, Reporting Test Score:[35m34.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 30, [0m
+[31mLoss: 1.8069, [0m
+[31mDev Accuracy: [33m33.800%, [0m
+[31mTest Accuracy: 35.100%, Reporting Test Score:[35m35.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 31, [0m
+[31mLoss: 1.8105, [0m
+[31mDev Accuracy: [33m34.400%, [0m
+[31mTest Accuracy: 35.400%, Reporting Test Score:[35m35.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 32, [0m
+[31mLoss: 1.7866, [0m
+[31mDev Accuracy: [34m34.200%, [0m
+[31mTest Accuracy: 35.900%, Reporting Test Score:[35m35.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 33, [0m
+[31mLoss: 1.7855, [0m
+[31mDev Accuracy: [34m34.200%, [0m
+[31mTest Accuracy: 36.000%, Reporting Test Score:[35m35.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 34, [0m
+[31mLoss: 1.7887, [0m
+[31mDev Accuracy: [34m34.200%, [0m
+[31mTest Accuracy: 36.400%, Reporting Test Score:[35m35.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 35, [0m
+[31mLoss: 1.7731, [0m
+[31mDev Accuracy: [33m34.800%, [0m
+[31mTest Accuracy: 36.900%, Reporting Test Score:[35m36.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 36, [0m
+[31mLoss: 1.7791, [0m
+[31mDev Accuracy: [33m35.400%, [0m
+[31mTest Accuracy: 37.800%, Reporting Test Score:[35m37.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 37, [0m
+[31mLoss: 1.7653, [0m
+[31mDev Accuracy: [33m36.400%, [0m
+[31mTest Accuracy: 38.100%, Reporting Test Score:[35m38.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 38, [0m
+[31mLoss: 1.7633, [0m
+[31mDev Accuracy: [34m36.200%, [0m
+[31mTest Accuracy: 38.500%, Reporting Test Score:[35m38.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 39, [0m
+[31mLoss: 1.7610, [0m
+[31mDev Accuracy: [33m36.400%, [0m
+[31mTest Accuracy: 39.100%, Reporting Test Score:[35m39.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 40, [0m
+[31mLoss: 1.7142, [0m
+[31mDev Accuracy: [33m36.800%, [0m
+[31mTest Accuracy: 39.800%, Reporting Test Score:[35m39.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 41, [0m
+[31mLoss: 1.7180, [0m
+[31mDev Accuracy: [33m36.800%, [0m
+[31mTest Accuracy: 40.300%, Reporting Test Score:[35m40.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 42, [0m
+[31mLoss: 1.7347, [0m
+[31mDev Accuracy: [33m38.200%, [0m
+[31mTest Accuracy: 41.300%, Reporting Test Score:[35m41.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 43, [0m
+[31mLoss: 1.7013, [0m
+[31mDev Accuracy: [33m39.200%, [0m
+[31mTest Accuracy: 41.700%, Reporting Test Score:[35m41.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 44, [0m
+[31mLoss: 1.6871, [0m
+[31mDev Accuracy: [33m39.400%, [0m
+[31mTest Accuracy: 42.200%, Reporting Test Score:[35m42.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 45, [0m
+[31mLoss: 1.6970, [0m
+[31mDev Accuracy: [33m39.800%, [0m
+[31mTest Accuracy: 42.400%, Reporting Test Score:[35m42.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 46, [0m
+[31mLoss: 1.6956, [0m
+[31mDev Accuracy: [34m39.600%, [0m
+[31mTest Accuracy: 42.900%, Reporting Test Score:[35m42.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 47, [0m
+[31mLoss: 1.6849, [0m
+[31mDev Accuracy: [33m40.000%, [0m
+[31mTest Accuracy: 42.900%, Reporting Test Score:[35m42.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 48, [0m
+[31mLoss: 1.6590, [0m
+[31mDev Accuracy: [33m40.000%, [0m
+[31mTest Accuracy: 43.600%, Reporting Test Score:[35m43.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 49, [0m
+[31mLoss: 1.6387, [0m
+[31mDev Accuracy: [33m40.600%, [0m
+[31mTest Accuracy: 44.100%, Reporting Test Score:[35m44.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 50, [0m
+[31mLoss: 1.6500, [0m
+[31mDev Accuracy: [33m41.200%, [0m
+[31mTest Accuracy: 44.400%, Reporting Test Score:[35m44.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 51, [0m
+[31mLoss: 1.6368, [0m
+[31mDev Accuracy: [33m42.200%, [0m
+[31mTest Accuracy: 44.700%, Reporting Test Score:[35m44.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 52, [0m
+[31mLoss: 1.6087, [0m
+[31mDev Accuracy: [33m42.600%, [0m
+[31mTest Accuracy: 45.200%, Reporting Test Score:[35m45.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 53, [0m
+[31mLoss: 1.6116, [0m
+[31mDev Accuracy: [33m43.400%, [0m
+[31mTest Accuracy: 45.600%, Reporting Test Score:[35m45.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 54, [0m
+[31mLoss: 1.6268, [0m
+[31mDev Accuracy: [33m43.800%, [0m
+[31mTest Accuracy: 46.000%, Reporting Test Score:[35m46.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 55, [0m
+[31mLoss: 1.5669, [0m
+[31mDev Accuracy: [34m43.600%, [0m
+[31mTest Accuracy: 46.400%, Reporting Test Score:[35m46.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 56, [0m
+[31mLoss: 1.5820, [0m
+[31mDev Accuracy: [34m43.600%, [0m
+[31mTest Accuracy: 46.900%, Reporting Test Score:[35m46.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 57, [0m
+[31mLoss: 1.5701, [0m
+[31mDev Accuracy: [33m43.800%, [0m
+[31mTest Accuracy: 47.200%, Reporting Test Score:[35m47.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 58, [0m
+[31mLoss: 1.5382, [0m
+[31mDev Accuracy: [33m44.000%, [0m
+[31mTest Accuracy: 47.400%, Reporting Test Score:[35m47.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 59, [0m
+[31mLoss: 1.5305, [0m
+[31mDev Accuracy: [34m43.600%, [0m
+[31mTest Accuracy: 47.700%, Reporting Test Score:[35m47.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 60, [0m
+[31mLoss: 1.5140, [0m
+[31mDev Accuracy: [34m43.800%, [0m
+[31mTest Accuracy: 47.900%, Reporting Test Score:[35m47.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 61, [0m
+[31mLoss: 1.5575, [0m
+[31mDev Accuracy: [33m44.200%, [0m
+[31mTest Accuracy: 47.900%, Reporting Test Score:[35m47.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 62, [0m
+[31mLoss: 1.5318, [0m
+[31mDev Accuracy: [34m44.000%, [0m
+[31mTest Accuracy: 48.100%, Reporting Test Score:[35m47.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 63, [0m
+[31mLoss: 1.4851, [0m
+[31mDev Accuracy: [34m44.000%, [0m
+[31mTest Accuracy: 48.100%, Reporting Test Score:[35m47.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 64, [0m
+[31mLoss: 1.4749, [0m
+[31mDev Accuracy: [33m44.800%, [0m
+[31mTest Accuracy: 48.400%, Reporting Test Score:[35m48.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 65, [0m
+[31mLoss: 1.5042, [0m
+[31mDev Accuracy: [34m44.400%, [0m
+[31mTest Accuracy: 48.900%, Reporting Test Score:[35m48.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 66, [0m
+[31mLoss: 1.4894, [0m
+[31mDev Accuracy: [33m45.600%, [0m
+[31mTest Accuracy: 48.700%, Reporting Test Score:[35m48.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 67, [0m
+[31mLoss: 1.4561, [0m
+[31mDev Accuracy: [33m45.800%, [0m
+[31mTest Accuracy: 49.300%, Reporting Test Score:[35m49.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 68, [0m
+[31mLoss: 1.4133, [0m
+[31mDev Accuracy: [33m46.000%, [0m
+[31mTest Accuracy: 49.700%, Reporting Test Score:[35m49.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 69, [0m
+[31mLoss: 1.4266, [0m
+[31mDev Accuracy: [33m46.200%, [0m
+[31mTest Accuracy: 50.400%, Reporting Test Score:[35m50.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 70, [0m
+[31mLoss: 1.4119, [0m
+[31mDev Accuracy: [33m47.200%, [0m
+[31mTest Accuracy: 51.600%, Reporting Test Score:[35m51.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 71, [0m
+[31mLoss: 1.3909, [0m
+[31mDev Accuracy: [33m47.800%, [0m
+[31mTest Accuracy: 52.400%, Reporting Test Score:[35m52.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 72, [0m
+[31mLoss: 1.3839, [0m
+[31mDev Accuracy: [33m48.000%, [0m
+[31mTest Accuracy: 53.600%, Reporting Test Score:[35m53.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 73, [0m
+[31mLoss: 1.3525, [0m
+[31mDev Accuracy: [33m49.800%, [0m
+[31mTest Accuracy: 54.200%, Reporting Test Score:[35m54.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 74, [0m
+[31mLoss: 1.3944, [0m
+[31mDev Accuracy: [33m49.800%, [0m
+[31mTest Accuracy: 54.400%, Reporting Test Score:[35m54.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 75, [0m
+[31mLoss: 1.3237, [0m
+[31mDev Accuracy: [33m49.800%, [0m
+[31mTest Accuracy: 54.800%, Reporting Test Score:[35m54.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 76, [0m
+[31mLoss: 1.3163, [0m
+[31mDev Accuracy: [33m51.000%, [0m
+[31mTest Accuracy: 55.400%, Reporting Test Score:[35m55.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 77, [0m
+[31mLoss: 1.3187, [0m
+[31mDev Accuracy: [33m52.400%, [0m
+[31mTest Accuracy: 56.400%, Reporting Test Score:[35m56.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 78, [0m
+[31mLoss: 1.3367, [0m
+[31mDev Accuracy: [33m53.600%, [0m
+[31mTest Accuracy: 57.600%, Reporting Test Score:[35m57.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 79, [0m
+[31mLoss: 1.3172, [0m
+[31mDev Accuracy: [33m54.200%, [0m
+[31mTest Accuracy: 59.000%, Reporting Test Score:[35m59.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 80, [0m
+[31mLoss: 1.2716, [0m
+[31mDev Accuracy: [33m54.800%, [0m
+[31mTest Accuracy: 59.700%, Reporting Test Score:[35m59.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 81, [0m
+[31mLoss: 1.2822, [0m
+[31mDev Accuracy: [33m56.600%, [0m
+[31mTest Accuracy: 60.100%, Reporting Test Score:[35m60.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 82, [0m
+[31mLoss: 1.2244, [0m
+[31mDev Accuracy: [33m57.600%, [0m
+[31mTest Accuracy: 60.700%, Reporting Test Score:[35m60.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 83, [0m
+[31mLoss: 1.2471, [0m
+[31mDev Accuracy: [33m58.000%, [0m
+[31mTest Accuracy: 61.200%, Reporting Test Score:[35m61.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 84, [0m
+[31mLoss: 1.2391, [0m
+[31mDev Accuracy: [33m58.600%, [0m
+[31mTest Accuracy: 61.400%, Reporting Test Score:[35m61.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 85, [0m
+[31mLoss: 1.2188, [0m
+[31mDev Accuracy: [33m59.000%, [0m
+[31mTest Accuracy: 62.100%, Reporting Test Score:[35m62.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 86, [0m
+[31mLoss: 1.2183, [0m
+[31mDev Accuracy: [33m59.600%, [0m
+[31mTest Accuracy: 63.400%, Reporting Test Score:[35m63.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 87, [0m
+[31mLoss: 1.2315, [0m
+[31mDev Accuracy: [33m60.800%, [0m
+[31mTest Accuracy: 64.000%, Reporting Test Score:[35m64.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 88, [0m
+[31mLoss: 1.2069, [0m
+[31mDev Accuracy: [33m62.600%, [0m
+[31mTest Accuracy: 66.000%, Reporting Test Score:[35m66.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 89, [0m
+[31mLoss: 1.1646, [0m
+[31mDev Accuracy: [33m64.000%, [0m
+[31mTest Accuracy: 67.000%, Reporting Test Score:[35m67.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 90, [0m
+[31mLoss: 1.1346, [0m
+[31mDev Accuracy: [33m64.200%, [0m
+[31mTest Accuracy: 67.700%, Reporting Test Score:[35m67.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 91, [0m
+[31mLoss: 1.1285, [0m
+[31mDev Accuracy: [33m64.400%, [0m
+[31mTest Accuracy: 68.500%, Reporting Test Score:[35m68.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 92, [0m
+[31mLoss: 1.1374, [0m
+[31mDev Accuracy: [33m65.600%, [0m
+[31mTest Accuracy: 69.000%, Reporting Test Score:[35m69.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 93, [0m
+[31mLoss: 1.1061, [0m
+[31mDev Accuracy: [33m66.000%, [0m
+[31mTest Accuracy: 69.100%, Reporting Test Score:[35m69.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 94, [0m
+[31mLoss: 1.1635, [0m
+[31mDev Accuracy: [33m67.000%, [0m
+[31mTest Accuracy: 69.500%, Reporting Test Score:[35m69.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 95, [0m
+[31mLoss: 1.1455, [0m
+[31mDev Accuracy: [33m67.800%, [0m
+[31mTest Accuracy: 70.000%, Reporting Test Score:[35m70.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 96, [0m
+[31mLoss: 1.0774, [0m
+[31mDev Accuracy: [33m68.200%, [0m
+[31mTest Accuracy: 70.400%, Reporting Test Score:[35m70.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 97, [0m
+[31mLoss: 1.0815, [0m
+[31mDev Accuracy: [33m69.000%, [0m
+[31mTest Accuracy: 70.900%, Reporting Test Score:[35m70.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 98, [0m
+[31mLoss: 1.0239, [0m
+[31mDev Accuracy: [34m68.400%, [0m
+[31mTest Accuracy: 71.300%, Reporting Test Score:[35m70.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 99, [0m
+[31mLoss: 1.0524, [0m
+[31mDev Accuracy: [34m68.600%, [0m
+[31mTest Accuracy: 72.000%, Reporting Test Score:[35m70.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 100, [0m
+[31mLoss: 1.0543, [0m
+[31mDev Accuracy: [34m68.800%, [0m
+[31mTest Accuracy: 71.800%, Reporting Test Score:[35m70.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 101, [0m
+[31mLoss: 1.0246, [0m
+[31mDev Accuracy: [33m69.200%, [0m
+[31mTest Accuracy: 71.900%, Reporting Test Score:[35m71.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 102, [0m
+[31mLoss: 1.0014, [0m
+[31mDev Accuracy: [33m69.400%, [0m
+[31mTest Accuracy: 71.900%, Reporting Test Score:[35m71.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 103, [0m
+[31mLoss: 0.9502, [0m
+[31mDev Accuracy: [33m69.600%, [0m
+[31mTest Accuracy: 72.800%, Reporting Test Score:[35m72.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 104, [0m
+[31mLoss: 0.8932, [0m
+[31mDev Accuracy: [33m70.200%, [0m
+[31mTest Accuracy: 73.500%, Reporting Test Score:[35m73.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 105, [0m
+[31mLoss: 0.9614, [0m
+[31mDev Accuracy: [33m70.800%, [0m
+[31mTest Accuracy: 73.600%, Reporting Test Score:[35m73.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 106, [0m
+[31mLoss: 0.9454, [0m
+[31mDev Accuracy: [33m71.400%, [0m
+[31mTest Accuracy: 73.900%, Reporting Test Score:[35m73.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 107, [0m
+[31mLoss: 0.8502, [0m
+[31mDev Accuracy: [33m71.400%, [0m
+[31mTest Accuracy: 74.300%, Reporting Test Score:[35m74.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 108, [0m
+[31mLoss: 0.8885, [0m
+[31mDev Accuracy: [33m72.600%, [0m
+[31mTest Accuracy: 74.800%, Reporting Test Score:[35m74.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 109, [0m
+[31mLoss: 0.8728, [0m
+[31mDev Accuracy: [33m72.600%, [0m
+[31mTest Accuracy: 74.700%, Reporting Test Score:[35m74.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 110, [0m
+[31mLoss: 0.8697, [0m
+[31mDev Accuracy: [33m72.800%, [0m
+[31mTest Accuracy: 75.400%, Reporting Test Score:[35m75.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 111, [0m
+[31mLoss: 0.8851, [0m
+[31mDev Accuracy: [33m72.800%, [0m
+[31mTest Accuracy: 75.700%, Reporting Test Score:[35m75.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 112, [0m
+[31mLoss: 0.8463, [0m
+[31mDev Accuracy: [33m72.800%, [0m
+[31mTest Accuracy: 76.000%, Reporting Test Score:[35m76.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 113, [0m
+[31mLoss: 0.8229, [0m
+[31mDev Accuracy: [33m73.000%, [0m
+[31mTest Accuracy: 75.400%, Reporting Test Score:[35m75.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 114, [0m
+[31mLoss: 0.7468, [0m
+[31mDev Accuracy: [34m72.600%, [0m
+[31mTest Accuracy: 75.400%, Reporting Test Score:[35m75.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 115, [0m
+[31mLoss: 0.8001, [0m
+[31mDev Accuracy: [33m73.200%, [0m
+[31mTest Accuracy: 76.000%, Reporting Test Score:[35m76.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 116, [0m
+[31mLoss: 0.8265, [0m
+[31mDev Accuracy: [33m73.800%, [0m
+[31mTest Accuracy: 76.200%, Reporting Test Score:[35m76.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 117, [0m
+[31mLoss: 0.7290, [0m
+[31mDev Accuracy: [33m74.000%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m76.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 118, [0m
+[31mLoss: 0.8587, [0m
+[31mDev Accuracy: [33m74.000%, [0m
+[31mTest Accuracy: 76.300%, Reporting Test Score:[35m76.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 119, [0m
+[31mLoss: 0.7533, [0m
+[31mDev Accuracy: [34m73.800%, [0m
+[31mTest Accuracy: 76.000%, Reporting Test Score:[35m76.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 120, [0m
+[31mLoss: 0.7376, [0m
+[31mDev Accuracy: [34m73.800%, [0m
+[31mTest Accuracy: 76.300%, Reporting Test Score:[35m76.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 121, [0m
+[31mLoss: 0.7177, [0m
+[31mDev Accuracy: [34m73.800%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m76.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 122, [0m
+[31mLoss: 0.7120, [0m
+[31mDev Accuracy: [34m73.600%, [0m
+[31mTest Accuracy: 76.800%, Reporting Test Score:[35m76.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 123, [0m
+[31mLoss: 0.7009, [0m
+[31mDev Accuracy: [33m74.000%, [0m
+[31mTest Accuracy: 76.400%, Reporting Test Score:[35m76.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 124, [0m
+[31mLoss: 0.6638, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 76.200%, Reporting Test Score:[35m76.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 125, [0m
+[31mLoss: 0.7457, [0m
+[31mDev Accuracy: [34m73.600%, [0m
+[31mTest Accuracy: 76.300%, Reporting Test Score:[35m76.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 126, [0m
+[31mLoss: 0.5952, [0m
+[31mDev Accuracy: [33m74.000%, [0m
+[31mTest Accuracy: 76.400%, Reporting Test Score:[35m76.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 127, [0m
+[31mLoss: 0.5959, [0m
+[31mDev Accuracy: [33m74.400%, [0m
+[31mTest Accuracy: 77.300%, Reporting Test Score:[35m77.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 128, [0m
+[31mLoss: 0.6539, [0m
+[31mDev Accuracy: [33m75.400%, [0m
+[31mTest Accuracy: 78.600%, Reporting Test Score:[35m78.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 129, [0m
+[31mLoss: 0.7051, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 78.400%, Reporting Test Score:[35m78.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 130, [0m
+[31mLoss: 0.6214, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m78.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 131, [0m
+[31mLoss: 0.5671, [0m
+[31mDev Accuracy: [33m75.600%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m77.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 132, [0m
+[31mLoss: 0.5665, [0m
+[31mDev Accuracy: [33m76.000%, [0m
+[31mTest Accuracy: 78.200%, Reporting Test Score:[35m78.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 133, [0m
+[31mLoss: 0.6612, [0m
+[31mDev Accuracy: [33m76.400%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 134, [0m
+[31mLoss: 0.5718, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 77.700%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 135, [0m
+[31mLoss: 0.6458, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 77.300%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 136, [0m
+[31mLoss: 0.6336, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 137, [0m
+[31mLoss: 0.5815, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 138, [0m
+[31mLoss: 0.5604, [0m
+[31mDev Accuracy: [34m74.400%, [0m
+[31mTest Accuracy: 77.700%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 139, [0m
+[31mLoss: 0.5769, [0m
+[31mDev Accuracy: [34m74.200%, [0m
+[31mTest Accuracy: 77.400%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 140, [0m
+[31mLoss: 0.5264, [0m
+[31mDev Accuracy: [34m74.000%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 141, [0m
+[31mLoss: 0.5539, [0m
+[31mDev Accuracy: [34m73.600%, [0m
+[31mTest Accuracy: 75.900%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 142, [0m
+[31mLoss: 0.4604, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 75.700%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 143, [0m
+[31mLoss: 0.4774, [0m
+[31mDev Accuracy: [34m74.600%, [0m
+[31mTest Accuracy: 76.700%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 144, [0m
+[31mLoss: 0.5075, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 77.500%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 145, [0m
+[31mLoss: 0.5082, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 146, [0m
+[31mLoss: 0.4492, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 78.300%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 147, [0m
+[31mLoss: 0.4374, [0m
+[31mDev Accuracy: [34m74.200%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 148, [0m
+[31mLoss: 0.4389, [0m
+[31mDev Accuracy: [34m74.000%, [0m
+[31mTest Accuracy: 77.700%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 149, [0m
+[31mLoss: 0.5058, [0m
+[31mDev Accuracy: [34m74.600%, [0m
+[31mTest Accuracy: 77.600%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 150, [0m
+[31mLoss: 0.4231, [0m
+[31mDev Accuracy: [34m75.800%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 151, [0m
+[31mLoss: 0.4322, [0m
+[31mDev Accuracy: [34m75.400%, [0m
+[31mTest Accuracy: 78.500%, Reporting Test Score:[35m78.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 152, [0m
+[31mLoss: 0.4315, [0m
+[31mDev Accuracy: [33m76.400%, [0m
+[31mTest Accuracy: 78.900%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 153, [0m
+[31mLoss: 0.4578, [0m
+[31mDev Accuracy: [34m76.200%, [0m
+[31mTest Accuracy: 78.700%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 154, [0m
+[31mLoss: 0.4558, [0m
+[31mDev Accuracy: [34m76.200%, [0m
+[31mTest Accuracy: 78.200%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 155, [0m
+[31mLoss: 0.4735, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 77.000%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 156, [0m
+[31mLoss: 0.4233, [0m
+[31mDev Accuracy: [34m73.800%, [0m
+[31mTest Accuracy: 76.900%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 157, [0m
+[31mLoss: 0.3613, [0m
+[31mDev Accuracy: [34m73.800%, [0m
+[31mTest Accuracy: 76.400%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 158, [0m
+[31mLoss: 0.4384, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 76.600%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 159, [0m
+[31mLoss: 0.4547, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 76.100%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 160, [0m
+[31mLoss: 0.3897, [0m
+[31mDev Accuracy: [34m73.200%, [0m
+[31mTest Accuracy: 75.900%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 161, [0m
+[31mLoss: 0.3940, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 162, [0m
+[31mLoss: 0.5808, [0m
+[31mDev Accuracy: [33m76.400%, [0m
+[31mTest Accuracy: 78.200%, Reporting Test Score:[35m78.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 163, [0m
+[31mLoss: 0.3480, [0m
+[31mDev Accuracy: [33m77.200%, [0m
+[31mTest Accuracy: 78.900%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 164, [0m
+[31mLoss: 0.3907, [0m
+[31mDev Accuracy: [34m77.000%, [0m
+[31mTest Accuracy: 78.600%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 165, [0m
+[31mLoss: 0.4287, [0m
+[31mDev Accuracy: [34m76.400%, [0m
+[31mTest Accuracy: 78.400%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 166, [0m
+[31mLoss: 0.4300, [0m
+[31mDev Accuracy: [34m75.400%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 167, [0m
+[31mLoss: 0.3739, [0m
+[31mDev Accuracy: [34m75.400%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 168, [0m
+[31mLoss: 0.4325, [0m
+[31mDev Accuracy: [34m76.400%, [0m
+[31mTest Accuracy: 79.100%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 169, [0m
+[31mLoss: 0.3754, [0m
+[31mDev Accuracy: [34m76.600%, [0m
+[31mTest Accuracy: 79.100%, Reporting Test Score:[35m78.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 170, [0m
+[31mLoss: 0.4668, [0m
+[31mDev Accuracy: [33m77.400%, [0m
+[31mTest Accuracy: 79.300%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 171, [0m
+[31mLoss: 0.3679, [0m
+[31mDev Accuracy: [34m76.800%, [0m
+[31mTest Accuracy: 79.200%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 172, [0m
+[31mLoss: 0.3270, [0m
+[31mDev Accuracy: [34m75.800%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 173, [0m
+[31mLoss: 0.3922, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 77.800%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 174, [0m
+[31mLoss: 0.3774, [0m
+[31mDev Accuracy: [34m74.400%, [0m
+[31mTest Accuracy: 77.400%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 175, [0m
+[31mLoss: 0.3285, [0m
+[31mDev Accuracy: [34m74.600%, [0m
+[31mTest Accuracy: 77.000%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 176, [0m
+[31mLoss: 0.3706, [0m
+[31mDev Accuracy: [34m74.400%, [0m
+[31mTest Accuracy: 76.800%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 177, [0m
+[31mLoss: 0.3136, [0m
+[31mDev Accuracy: [34m75.600%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 178, [0m
+[31mLoss: 0.3482, [0m
+[31mDev Accuracy: [34m76.200%, [0m
+[31mTest Accuracy: 78.300%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 179, [0m
+[31mLoss: 0.3300, [0m
+[31mDev Accuracy: [34m75.800%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 180, [0m
+[31mLoss: 0.3746, [0m
+[31mDev Accuracy: [34m75.600%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 181, [0m
+[31mLoss: 0.3226, [0m
+[31mDev Accuracy: [34m74.200%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 182, [0m
+[31mLoss: 0.2672, [0m
+[31mDev Accuracy: [34m72.000%, [0m
+[31mTest Accuracy: 74.900%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 183, [0m
+[31mLoss: 0.3118, [0m
+[31mDev Accuracy: [34m73.200%, [0m
+[31mTest Accuracy: 75.800%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 184, [0m
+[31mLoss: 0.3443, [0m
+[31mDev Accuracy: [34m74.400%, [0m
+[31mTest Accuracy: 77.300%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 185, [0m
+[31mLoss: 0.3310, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 186, [0m
+[31mLoss: 0.2650, [0m
+[31mDev Accuracy: [34m74.200%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 187, [0m
+[31mLoss: 0.2638, [0m
+[31mDev Accuracy: [34m75.400%, [0m
+[31mTest Accuracy: 78.400%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 188, [0m
+[31mLoss: 0.2760, [0m
+[31mDev Accuracy: [34m76.600%, [0m
+[31mTest Accuracy: 78.800%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 189, [0m
+[31mLoss: 0.3038, [0m
+[31mDev Accuracy: [34m76.200%, [0m
+[31mTest Accuracy: 79.100%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 190, [0m
+[31mLoss: 0.3499, [0m
+[31mDev Accuracy: [34m76.000%, [0m
+[31mTest Accuracy: 78.500%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 191, [0m
+[31mLoss: 0.2905, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 78.100%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 192, [0m
+[31mLoss: 0.2662, [0m
+[31mDev Accuracy: [34m74.800%, [0m
+[31mTest Accuracy: 77.400%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 193, [0m
+[31mLoss: 0.2748, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 77.000%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 194, [0m
+[31mLoss: 0.2605, [0m
+[31mDev Accuracy: [34m75.400%, [0m
+[31mTest Accuracy: 77.400%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 195, [0m
+[31mLoss: 0.2786, [0m
+[31mDev Accuracy: [34m75.800%, [0m
+[31mTest Accuracy: 77.800%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 196, [0m
+[31mLoss: 0.2793, [0m
+[31mDev Accuracy: [34m76.000%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 197, [0m
+[31mLoss: 0.3225, [0m
+[31mDev Accuracy: [34m77.000%, [0m
+[31mTest Accuracy: 78.400%, Reporting Test Score:[35m79.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 198, [0m
+[31mLoss: 0.2632, [0m
+[31mDev Accuracy: [33m78.000%, [0m
+[31mTest Accuracy: 79.600%, Reporting Test Score:[35m79.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 199, [0m
+[31mLoss: 0.2537, [0m
+[31mDev Accuracy: [33m78.400%, [0m
+[31mTest Accuracy: 79.900%, Reporting Test Score:[35m79.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 200, [0m
+[31mLoss: 0.2996, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 79.700%, Reporting Test Score:[35m79.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31m64, [31m0.05, [31m2, [31m0.0003, [0m
+[31mFold 1, [0m
+[31mEpoch 1, [0m
+[31mLoss: 1.9476, [0m
+[31mDev Accuracy: [33m12.800%, [0m
+[31mTest Accuracy: 13.700%, Reporting Test Score:[35m13.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 2, [0m
+[31mLoss: 1.9400, [0m
+[31mDev Accuracy: [33m12.800%, [0m
+[31mTest Accuracy: 13.400%, Reporting Test Score:[35m13.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 3, [0m
+[31mLoss: 1.9241, [0m
+[31mDev Accuracy: [33m13.400%, [0m
+[31mTest Accuracy: 13.900%, Reporting Test Score:[35m13.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 4, [0m
+[31mLoss: 1.9207, [0m
+[31mDev Accuracy: [33m14.000%, [0m
+[31mTest Accuracy: 14.100%, Reporting Test Score:[35m14.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 5, [0m
+[31mLoss: 1.9020, [0m
+[31mDev Accuracy: [33m14.800%, [0m
+[31mTest Accuracy: 14.700%, Reporting Test Score:[35m14.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 6, [0m
+[31mLoss: 1.8966, [0m
+[31mDev Accuracy: [33m16.200%, [0m
+[31mTest Accuracy: 15.700%, Reporting Test Score:[35m15.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 7, [0m
+[31mLoss: 1.8834, [0m
+[31mDev Accuracy: [33m18.200%, [0m
+[31mTest Accuracy: 17.600%, Reporting Test Score:[35m17.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 8, [0m
+[31mLoss: 1.8658, [0m
+[31mDev Accuracy: [33m20.000%, [0m
+[31mTest Accuracy: 20.300%, Reporting Test Score:[35m20.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 9, [0m
+[31mLoss: 1.8444, [0m
+[31mDev Accuracy: [33m21.000%, [0m
+[31mTest Accuracy: 22.600%, Reporting Test Score:[35m22.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 10, [0m
+[31mLoss: 1.8425, [0m
+[31mDev Accuracy: [33m22.600%, [0m
+[31mTest Accuracy: 23.700%, Reporting Test Score:[35m23.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 11, [0m
+[31mLoss: 1.8230, [0m
+[31mDev Accuracy: [33m23.400%, [0m
+[31mTest Accuracy: 25.800%, Reporting Test Score:[35m25.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 12, [0m
+[31mLoss: 1.8118, [0m
+[31mDev Accuracy: [33m25.000%, [0m
+[31mTest Accuracy: 27.000%, Reporting Test Score:[35m27.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 13, [0m
+[31mLoss: 1.7752, [0m
+[31mDev Accuracy: [33m26.000%, [0m
+[31mTest Accuracy: 28.100%, Reporting Test Score:[35m28.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 14, [0m
+[31mLoss: 1.7679, [0m
+[31mDev Accuracy: [33m28.200%, [0m
+[31mTest Accuracy: 28.600%, Reporting Test Score:[35m28.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 15, [0m
+[31mLoss: 1.7449, [0m
+[31mDev Accuracy: [33m28.200%, [0m
+[31mTest Accuracy: 29.800%, Reporting Test Score:[35m29.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 16, [0m
+[31mLoss: 1.7171, [0m
+[31mDev Accuracy: [33m29.000%, [0m
+[31mTest Accuracy: 31.100%, Reporting Test Score:[35m31.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 17, [0m
+[31mLoss: 1.6845, [0m
+[31mDev Accuracy: [33m30.400%, [0m
+[31mTest Accuracy: 32.400%, Reporting Test Score:[35m32.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 18, [0m
+[31mLoss: 1.6733, [0m
+[31mDev Accuracy: [33m31.400%, [0m
+[31mTest Accuracy: 33.200%, Reporting Test Score:[35m33.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 19, [0m
+[31mLoss: 1.6439, [0m
+[31mDev Accuracy: [33m32.600%, [0m
+[31mTest Accuracy: 33.800%, Reporting Test Score:[35m33.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 20, [0m
+[31mLoss: 1.6426, [0m
+[31mDev Accuracy: [33m33.600%, [0m
+[31mTest Accuracy: 34.500%, Reporting Test Score:[35m34.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 21, [0m
+[31mLoss: 1.5862, [0m
+[31mDev Accuracy: [33m35.200%, [0m
+[31mTest Accuracy: 37.000%, Reporting Test Score:[35m37.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 22, [0m
+[31mLoss: 1.5590, [0m
+[31mDev Accuracy: [33m36.800%, [0m
+[31mTest Accuracy: 38.400%, Reporting Test Score:[35m38.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 23, [0m
+[31mLoss: 1.5174, [0m
+[31mDev Accuracy: [33m38.800%, [0m
+[31mTest Accuracy: 41.100%, Reporting Test Score:[35m41.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 24, [0m
+[31mLoss: 1.5164, [0m
+[31mDev Accuracy: [33m40.800%, [0m
+[31mTest Accuracy: 42.600%, Reporting Test Score:[35m42.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 25, [0m
+[31mLoss: 1.4600, [0m
+[31mDev Accuracy: [33m42.800%, [0m
+[31mTest Accuracy: 44.800%, Reporting Test Score:[35m44.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 26, [0m
+[31mLoss: 1.4296, [0m
+[31mDev Accuracy: [33m45.000%, [0m
+[31mTest Accuracy: 46.700%, Reporting Test Score:[35m46.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 27, [0m
+[31mLoss: 1.4273, [0m
+[31mDev Accuracy: [33m46.600%, [0m
+[31mTest Accuracy: 48.800%, Reporting Test Score:[35m48.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 28, [0m
+[31mLoss: 1.3755, [0m
+[31mDev Accuracy: [33m47.600%, [0m
+[31mTest Accuracy: 50.900%, Reporting Test Score:[35m50.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 29, [0m
+[31mLoss: 1.3479, [0m
+[31mDev Accuracy: [33m48.400%, [0m
+[31mTest Accuracy: 51.800%, Reporting Test Score:[35m51.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 30, [0m
+[31mLoss: 1.3175, [0m
+[31mDev Accuracy: [33m49.600%, [0m
+[31mTest Accuracy: 52.200%, Reporting Test Score:[35m52.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 31, [0m
+[31mLoss: 1.3093, [0m
+[31mDev Accuracy: [33m51.000%, [0m
+[31mTest Accuracy: 53.600%, Reporting Test Score:[35m53.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 32, [0m
+[31mLoss: 1.2421, [0m
+[31mDev Accuracy: [33m52.200%, [0m
+[31mTest Accuracy: 55.000%, Reporting Test Score:[35m55.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 33, [0m
+[31mLoss: 1.2027, [0m
+[31mDev Accuracy: [33m53.600%, [0m
+[31mTest Accuracy: 56.300%, Reporting Test Score:[35m56.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 34, [0m
+[31mLoss: 1.1776, [0m
+[31mDev Accuracy: [33m54.800%, [0m
+[31mTest Accuracy: 57.300%, Reporting Test Score:[35m57.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 35, [0m
+[31mLoss: 1.1061, [0m
+[31mDev Accuracy: [33m56.600%, [0m
+[31mTest Accuracy: 58.000%, Reporting Test Score:[35m58.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 36, [0m
+[31mLoss: 1.0852, [0m
+[31mDev Accuracy: [33m57.000%, [0m
+[31mTest Accuracy: 58.200%, Reporting Test Score:[35m58.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 37, [0m
+[31mLoss: 0.9961, [0m
+[31mDev Accuracy: [33m57.600%, [0m
+[31mTest Accuracy: 58.500%, Reporting Test Score:[35m58.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 38, [0m
+[31mLoss: 0.9641, [0m
+[31mDev Accuracy: [34m57.400%, [0m
+[31mTest Accuracy: 59.000%, Reporting Test Score:[35m58.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 39, [0m
+[31mLoss: 0.9047, [0m
+[31mDev Accuracy: [33m58.600%, [0m
+[31mTest Accuracy: 61.300%, Reporting Test Score:[35m61.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 40, [0m
+[31mLoss: 0.9200, [0m
+[31mDev Accuracy: [33m61.200%, [0m
+[31mTest Accuracy: 64.000%, Reporting Test Score:[35m64.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 41, [0m
+[31mLoss: 0.8810, [0m
+[31mDev Accuracy: [33m64.800%, [0m
+[31mTest Accuracy: 66.300%, Reporting Test Score:[35m66.300%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 42, [0m
+[31mLoss: 0.8515, [0m
+[31mDev Accuracy: [33m66.600%, [0m
+[31mTest Accuracy: 66.400%, Reporting Test Score:[35m66.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 43, [0m
+[31mLoss: 0.7926, [0m
+[31mDev Accuracy: [34m65.000%, [0m
+[31mTest Accuracy: 66.200%, Reporting Test Score:[35m66.400%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 44, [0m
+[31mLoss: 0.7703, [0m
+[31mDev Accuracy: [33m66.600%, [0m
+[31mTest Accuracy: 68.000%, Reporting Test Score:[35m68.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 45, [0m
+[31mLoss: 0.7285, [0m
+[31mDev Accuracy: [33m69.200%, [0m
+[31mTest Accuracy: 69.500%, Reporting Test Score:[35m69.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 46, [0m
+[31mLoss: 0.6940, [0m
+[31mDev Accuracy: [33m72.800%, [0m
+[31mTest Accuracy: 72.100%, Reporting Test Score:[35m72.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 47, [0m
+[31mLoss: 0.6104, [0m
+[31mDev Accuracy: [34m72.600%, [0m
+[31mTest Accuracy: 72.700%, Reporting Test Score:[35m72.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 48, [0m
+[31mLoss: 0.6499, [0m
+[31mDev Accuracy: [34m71.400%, [0m
+[31mTest Accuracy: 72.100%, Reporting Test Score:[35m72.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 49, [0m
+[31mLoss: 0.5778, [0m
+[31mDev Accuracy: [34m71.800%, [0m
+[31mTest Accuracy: 72.000%, Reporting Test Score:[35m72.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 50, [0m
+[31mLoss: 0.5798, [0m
+[31mDev Accuracy: [34m72.600%, [0m
+[31mTest Accuracy: 73.300%, Reporting Test Score:[35m72.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 51, [0m
+[31mLoss: 0.5648, [0m
+[31mDev Accuracy: [34m72.200%, [0m
+[31mTest Accuracy: 73.800%, Reporting Test Score:[35m72.100%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 52, [0m
+[31mLoss: 0.4647, [0m
+[31mDev Accuracy: [33m77.000%, [0m
+[31mTest Accuracy: 76.800%, Reporting Test Score:[35m76.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 53, [0m
+[31mLoss: 0.4540, [0m
+[31mDev Accuracy: [33m78.400%, [0m
+[31mTest Accuracy: 77.700%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 54, [0m
+[31mLoss: 0.4273, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 78.200%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 55, [0m
+[31mLoss: 0.3876, [0m
+[31mDev Accuracy: [34m76.000%, [0m
+[31mTest Accuracy: 76.300%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 56, [0m
+[31mLoss: 0.4703, [0m
+[31mDev Accuracy: [34m70.200%, [0m
+[31mTest Accuracy: 72.000%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 57, [0m
+[31mLoss: 0.4314, [0m
+[31mDev Accuracy: [34m71.000%, [0m
+[31mTest Accuracy: 73.600%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 58, [0m
+[31mLoss: 0.4082, [0m
+[31mDev Accuracy: [34m75.400%, [0m
+[31mTest Accuracy: 76.300%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 59, [0m
+[31mLoss: 0.4501, [0m
+[31mDev Accuracy: [34m76.800%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 60, [0m
+[31mLoss: 0.4259, [0m
+[31mDev Accuracy: [34m77.200%, [0m
+[31mTest Accuracy: 76.800%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 61, [0m
+[31mLoss: 0.3456, [0m
+[31mDev Accuracy: [34m75.200%, [0m
+[31mTest Accuracy: 75.700%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 62, [0m
+[31mLoss: 0.3213, [0m
+[31mDev Accuracy: [34m74.400%, [0m
+[31mTest Accuracy: 75.600%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 63, [0m
+[31mLoss: 0.3241, [0m
+[31mDev Accuracy: [34m75.800%, [0m
+[31mTest Accuracy: 76.500%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 64, [0m
+[31mLoss: 0.2882, [0m
+[31mDev Accuracy: [34m76.400%, [0m
+[31mTest Accuracy: 77.000%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 65, [0m
+[31mLoss: 0.2588, [0m
+[31mDev Accuracy: [34m76.000%, [0m
+[31mTest Accuracy: 76.400%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 66, [0m
+[31mLoss: 0.3129, [0m
+[31mDev Accuracy: [34m70.800%, [0m
+[31mTest Accuracy: 72.100%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 67, [0m
+[31mLoss: 0.3105, [0m
+[31mDev Accuracy: [34m68.200%, [0m
+[31mTest Accuracy: 70.400%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 68, [0m
+[31mLoss: 0.2704, [0m
+[31mDev Accuracy: [34m72.800%, [0m
+[31mTest Accuracy: 73.200%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 69, [0m
+[31mLoss: 0.2833, [0m
+[31mDev Accuracy: [34m78.000%, [0m
+[31mTest Accuracy: 78.900%, Reporting Test Score:[35m77.700%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 70, [0m
+[31mLoss: 0.3159, [0m
+[31mDev Accuracy: [33m78.400%, [0m
+[31mTest Accuracy: 79.600%, Reporting Test Score:[35m79.600%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 71, [0m
+[31mLoss: 0.2489, [0m
+[31mDev Accuracy: [33m78.400%, [0m
+[31mTest Accuracy: 78.500%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 72, [0m
+[31mLoss: 0.2750, [0m
+[31mDev Accuracy: [34m76.200%, [0m
+[31mTest Accuracy: 77.000%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 73, [0m
+[31mLoss: 0.2717, [0m
+[31mDev Accuracy: [34m74.800%, [0m
+[31mTest Accuracy: 75.100%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 74, [0m
+[31mLoss: 0.3009, [0m
+[31mDev Accuracy: [34m76.800%, [0m
+[31mTest Accuracy: 76.900%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 75, [0m
+[31mLoss: 0.2261, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 78.400%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 76, [0m
+[31mLoss: 0.2386, [0m
+[31mDev Accuracy: [34m77.600%, [0m
+[31mTest Accuracy: 79.200%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 77, [0m
+[31mLoss: 0.1981, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 78.600%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 78, [0m
+[31mLoss: 0.2511, [0m
+[31mDev Accuracy: [34m77.600%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 79, [0m
+[31mLoss: 0.2164, [0m
+[31mDev Accuracy: [34m77.600%, [0m
+[31mTest Accuracy: 77.800%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 80, [0m
+[31mLoss: 0.1749, [0m
+[31mDev Accuracy: [34m76.400%, [0m
+[31mTest Accuracy: 76.400%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 81, [0m
+[31mLoss: 0.2386, [0m
+[31mDev Accuracy: [34m76.600%, [0m
+[31mTest Accuracy: 77.100%, Reporting Test Score:[35m78.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 82, [0m
+[31mLoss: 0.1756, [0m
+[31mDev Accuracy: [33m78.800%, [0m
+[31mTest Accuracy: 78.000%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 83, [0m
+[31mLoss: 0.2052, [0m
+[31mDev Accuracy: [34m76.000%, [0m
+[31mTest Accuracy: 76.000%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 84, [0m
+[31mLoss: 0.2354, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 74.000%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 85, [0m
+[31mLoss: 0.1831, [0m
+[31mDev Accuracy: [34m73.400%, [0m
+[31mTest Accuracy: 73.900%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 86, [0m
+[31mLoss: 0.2075, [0m
+[31mDev Accuracy: [34m76.400%, [0m
+[31mTest Accuracy: 75.800%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 87, [0m
+[31mLoss: 0.2214, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 77.300%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 88, [0m
+[31mLoss: 0.2109, [0m
+[31mDev Accuracy: [34m77.400%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 89, [0m
+[31mLoss: 0.1698, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 78.700%, Reporting Test Score:[35m78.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 90, [0m
+[31mLoss: 0.1916, [0m
+[31mDev Accuracy: [33m78.800%, [0m
+[31mTest Accuracy: 79.200%, Reporting Test Score:[35m79.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 91, [0m
+[31mLoss: 0.2011, [0m
+[31mDev Accuracy: [34m76.400%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m79.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 92, [0m
+[31mLoss: 0.1730, [0m
+[31mDev Accuracy: [34m75.600%, [0m
+[31mTest Accuracy: 76.900%, Reporting Test Score:[35m79.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 93, [0m
+[31mLoss: 0.2183, [0m
+[31mDev Accuracy: [34m75.600%, [0m
+[31mTest Accuracy: 75.600%, Reporting Test Score:[35m79.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 94, [0m
+[31mLoss: 0.1719, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 76.100%, Reporting Test Score:[35m79.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 95, [0m
+[31mLoss: 0.1144, [0m
+[31mDev Accuracy: [34m76.600%, [0m
+[31mTest Accuracy: 77.700%, Reporting Test Score:[35m79.200%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 96, [0m
+[31mLoss: 0.1361, [0m
+[31mDev Accuracy: [33m79.200%, [0m
+[31mTest Accuracy: 79.500%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 97, [0m
+[31mLoss: 0.1652, [0m
+[31mDev Accuracy: [34m78.200%, [0m
+[31mTest Accuracy: 78.400%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 98, [0m
+[31mLoss: 0.1490, [0m
+[31mDev Accuracy: [34m76.000%, [0m
+[31mTest Accuracy: 75.900%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 99, [0m
+[31mLoss: 0.1536, [0m
+[31mDev Accuracy: [34m75.000%, [0m
+[31mTest Accuracy: 75.000%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 100, [0m
+[31mLoss: 0.1256, [0m
+[31mDev Accuracy: [34m76.200%, [0m
+[31mTest Accuracy: 75.200%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 101, [0m
+[31mLoss: 0.1576, [0m
+[31mDev Accuracy: [34m76.800%, [0m
+[31mTest Accuracy: 76.000%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 102, [0m
+[31mLoss: 0.1527, [0m
+[31mDev Accuracy: [34m76.800%, [0m
+[31mTest Accuracy: 76.800%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 103, [0m
+[31mLoss: 0.1852, [0m
+[31mDev Accuracy: [34m78.400%, [0m
+[31mTest Accuracy: 77.900%, Reporting Test Score:[35m79.500%, [0m
+[31m======================&&&&&&&&&=======================, [0m

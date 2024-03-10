@@ -1,0 +1,35 @@
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.x
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.tx
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.allx
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.y
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.ty
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.ally
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.graph
+Downloading https://github.com/kimiyoung/planetoid/raw/master/data/ind.pubmed.test.index
+Processing...
+Done!
+[31mcuda, [0m
+Traceback (most recent call last):
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 506, in <module>
+    dataset = torch_geometric.datasets.Planetoid(root, name=args.dataset, split='public')
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch_geometric/datasets/planetoid.py", line 93, in __init__
+    self.load(self.processed_paths[0])
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch_geometric/data/in_memory_dataset.py", line 124, in load
+    data, self.slices = torch.load(path)
+                        ^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/serialization.py", line 1028, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/serialization.py", line 1246, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: Ran out of input
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("en_US.UTF-8").

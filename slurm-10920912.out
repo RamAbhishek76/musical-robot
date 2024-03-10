@@ -1,0 +1,12 @@
+[KeOps] Compiling cuda jit compiler engine ... OK
+[pyKeOps] Compiling nvrtc binder for python ... OK
+usage: ops_custom.py [-h] [--dataset DATASET] [--segment SEGMENT]
+ops_custom.py: error: argument --dataset: expected one argument
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("en_US.UTF-8").

@@ -1,0 +1,75 @@
+[31mcuda, [0m
+[31m80, [31m0.3, [31m10, [31m0.0001, [0m
+[31mFold 1, [0m
+[31mEpoch 1, [0m
+[31mLoss: 1.9495, [0m
+[31mDev Accuracy: [33m38.600%, [0m
+[31mTest Accuracy: 39.800%, Reporting Test Score:[35m39.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 2, [0m
+[31mLoss: 1.9451, [0m
+[31mDev Accuracy: [34m38.400%, [0m
+[31mTest Accuracy: 39.900%, Reporting Test Score:[35m39.800%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 3, [0m
+[31mLoss: 1.9502, [0m
+[31mDev Accuracy: [33m38.600%, [0m
+[31mTest Accuracy: 40.000%, Reporting Test Score:[35m40.000%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 4, [0m
+[31mLoss: 1.9503, [0m
+[31mDev Accuracy: [33m38.600%, [0m
+[31mTest Accuracy: 39.900%, Reporting Test Score:[35m39.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+[31mFold 1, [0m
+[31mEpoch 5, [0m
+[31mLoss: 1.9429, [0m
+[31mDev Accuracy: [33m38.600%, [0m
+[31mTest Accuracy: 39.900%, Reporting Test Score:[35m39.900%, [0m
+[31m======================&&&&&&&&&=======================, [0m
+Traceback (most recent call last):
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 555, in <module>
+    dev, test, max_dev, test_at_max_dev = train_pipeline(
+                                          ^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 344, in train_pipeline
+    dev_score = eval(model, dataset.edge_index, dataset.x, dev_index, dev_y)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 311, in eval
+    out = model(edge_index.to(device), x.to(device))[supervision]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 127, in forward
+    adj, h, idx = self.pools[i](adj, h)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/miniconda3/envs/code/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 202, in forward
+    return top_k_graph(scores, g, h, self.k)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nerappan/niranjan/sml/sml/ops_custom.py", line 228, in top_k_graph
+    un_g += torch.diag(torch.ones(un_g.shape[0]).to(device))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 1.45 GiB. GPU 0 has a total capacty of 9.50 GiB of which 578.00 MiB is free. Including non-PyTorch memory, this process has 8.92 GiB memory in use. Of the allocated memory 3.19 GiB is allocated by PyTorch, and 4.85 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("en_US.UTF-8").
